@@ -1,0 +1,11 @@
+com/mycompany/eretailshop/ERetailShop.class
+com/mycompany/eretailshop/Order.class
+com/mycompany/eretailshop/Cart.class
+com/mycompany/eretailshop/Product.class
+com/mycompany/eretailshop/Customer.class
+com/mycompany/eretailshop/CollaborativeFilteringEngine.class
+com/mycompany/eretailshop/Payment.class
+com/mycompany/eretailshop/PayPalPayment.class
+com/mycompany/eretailshop/Seller.class
+com/mycompany/eretailshop/CreditCardPayment.class
+com/mycompany/eretailshop/RecommendationEngine.class
